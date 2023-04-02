@@ -15,7 +15,7 @@ Aplikasi ini memiliki beberapa fitur, yaitu:
 
 ## Cara Menggunakan
 
-1. Pastikan sudah terinstall SQL Server dan sudah terbuat database `db_hr_dts`
+1. Pastikan sudah terinstall SQL Server dan sudah terbuat database `db_hr_dts` link database (https://github.com/anggittaba/db_hr_dts)
 2. Clone repository ini
 3. Buka project menggunakan Visual Studio
 4. Pastikan sudah terkoneksi dengan database dengan mengubah nilai variabel `ConnectionString` pada file `region.cs`
